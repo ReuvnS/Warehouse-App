@@ -1,2 +1,3 @@
 # Warehouse-App
-React project
+Warehouse app with React Hooks.
+
